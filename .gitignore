@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/misc.xml
+.idea/modules.xml
+.idea/Tp1_Datos.iml
+.idea/vcs.xml
+.idea/workspace.xml
+events.csv
+._TERMINOS.txt
+*.csv
+TERMINOS.txt
